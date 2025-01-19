@@ -1,4 +1,3 @@
-
 <!--
 **nazanin97/nazanin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,17 +23,31 @@ Hi there! I'm Nazanin, a passionate developer and problem solver. I love working
 
 | **Stats**                                     | **Most Used Languages**                      |
 |-----------------------------------------------|---------------------------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazanin97&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazanin97&layout=compact&theme=radical) |
+| ![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazanin97&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazanin97&layout=compact&theme=radical&count_private=true) |
+
+
+<!--
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazanin97&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazanin97&layout=compact&theme=radical&count_private=true) |
+
+-->
 
 ---
+
+<!--
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=nazanin97&theme=radical&hide_border=true)
+
+---
+
 
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazanin97&theme=radical)
 
-
 ---
+
 
 ## 🗂️ Commit Insights
 ![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazanin97&theme=radical)
 
----
+-->
+
