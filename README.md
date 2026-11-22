@@ -1,52 +1,39 @@
-# 👩‍💻 Welcome to Nazanin Akhtarian's GitHub Profile! 🌟
 
-Hi! I'm Nazanin — a full-stack developer and systems engineer who loves building scalable applications, automating complex workflows, and exploring new technologies. I enjoy working across the stack, from frontend UI/UX to backend APIs, cloud infrastructure, automation, and AI-powered features.
+# Hi, I'm Nazanin 👋
 
----
+I'm a **Senior Software Engineer** based in Toronto, Canada, with a focus on **AI, backend engineering, and cloud infrastructure**.
 
-### 🛠️ Tech Stack
-**Frontend:** React, Next.js, TypeScript, HTML, CSS  
-**Backend:** Node.js, Express.js, GraphQL (Apollo), REST APIs  
-**AI & Automation:** OpenAI API, Llama, Google OCR, Pyppeteer  
-**Cloud & DevOps:** AWS (Lambda, ECS, S3, DynamoDB, CloudWatch), Serverless Framework, Terraform, Docker, CI/CD (CircleCI, Vercel)  
-**Databases:** PostgreSQL, MySQL, DynamoDB, Redshift  
+I enjoy designing scalable systems, building AI-powered tools, and solving complex engineering problems. My experience spans full-stack development, distributed systems, cloud infrastructure, and developer productivity.
 
----
+## 🛠️ Tech Stack
 
-### 🚀 What I Like Working On
-- Building full-stack web applications  
-- Automating workflows and browser interactions  
-- Designing serverless and cloud-native architectures  
-- Experimenting with AI for document processing and user assistance  
-- Improving observability, logging pipelines, and real-time systems
+**Languages:** Python, TypeScript, JavaScript, Go, Java, C++
 
----
+**Backend:** Node.js, Express.js, GraphQL, REST APIs
 
-### 📊 GitHub Stats
+**Frontend:** React, Next.js, HTML, CSS
 
-| **Stats** | **Most Used Languages** |
-|-----------|---------------------------|
-| ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazanin97&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazanin97&layout=compact&theme=radical&count_private=true) |
+**AI & Developer Tools:** LLMs, AI Agents, Codex, Cursor, MCP, Playwright
 
+**Cloud & Infrastructure:** AWS, Docker, Kubernetes, Terraform, CI/CD
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=nazanin97&theme=radical&hide_border=true)
+**Databases:** PostgreSQL, DynamoDB, Amazon Redshift
 
----
+**Observability:** Sentry, CloudWatch, BetterStack
 
-Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to connect. 😊
+## 🚀 Areas of Interest
 
-<!--
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazanin97&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazanin97&layout=compact&theme=radical&count_private=true) |
+- AI-powered developer tools and intelligent automation
+- Backend engineering and distributed systems
+- Cloud infrastructure and system reliability
+- Full-stack application development
+- Developer productivity and engineering tooling
 
--->
+### 📊 GitHub Activity
 
-<!--
-## 🗂️ Commit Insights
-![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazanin97&theme=radical)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazanin97&theme=github)
 
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazanin97&theme=radical)
+## 🔗 Connect
 
--->
+Feel free to explore my repositories or connect with me on [LinkedIn](https://linkedin.com/in/nazanin-akhtarian).
